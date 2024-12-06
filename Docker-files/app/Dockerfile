@@ -1,4 +1,4 @@
-FROM tomcat:10-jdk21
+FROM tomcat:10.1.24-jdk21
 LABEL "Project"="Vprofile"
 LABEL "Author"="Imran"
 
